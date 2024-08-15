@@ -2,13 +2,13 @@
 
 Name: Jeremy Lai
 
-Age: 19 (as of 2021)
+Age: 22 (as of 2024)
 
 ## Education
 
-Studying at: Temasek Polytechnic (TP)
+Studying at: NUS
 
-Year: :three:
+Year: :one:
 
 Course: Computer Engineering
 
